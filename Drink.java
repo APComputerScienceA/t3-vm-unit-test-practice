@@ -7,6 +7,7 @@ public class Drink {
     * @param name is the name of the Drink
     * @param price is the price of the Drink
     * PRECONDITION: name cannot be an empty String, price cannot be negative
+    * POSTCONDITION: Drink object is created
     */
   public Drink(String name, double price) {
     this.name = name;
