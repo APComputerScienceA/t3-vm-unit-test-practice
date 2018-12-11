@@ -1,6 +1,5 @@
 # unit-test-practice
 
-## In-Class Exercises to Practice Writing Unit Tests
-1. The VendingMachine Class
-2. The Magic8Ball Class
-3. The Hangman Class
+## In-Class Exercise to Practice Writing Unit Tests
+
+Given the `VendingMachine.java` class, the `Drink.java` class, write a new `UnitTestForVendingMachine` class that has unit tests covering all possible test cases for each method in the `VendingMachine.java` and `Drink.java` classes.
